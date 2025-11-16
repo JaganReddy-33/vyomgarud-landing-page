@@ -1,5 +1,3 @@
-# vyomgarud-landing-page
-
 <div align="center">
 
 # 🛡️ VyomGarud – UAV / Drone Systems Landing Page  
@@ -33,8 +31,11 @@ This repo includes:
 
 VyomGuard/
 ├── client/ → React + Tailwind landing page (JSX only)
+|
 ├── server/ → Optional Node.js backend (contact form)
+|
 ├── README.md
+|
 └── .gitignore
 
 
@@ -87,4 +88,4 @@ The app runs at: http://localhost:5173
 cd server
 npm install
 node server.js
-Runs at: http://localhost:5000
+Runs at: http://localhost:3001
