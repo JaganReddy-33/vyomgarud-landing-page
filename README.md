@@ -77,7 +77,8 @@ VyomGuard/
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/JaganReddy-33/vyomgarud-landing-page.git
-cd VyomGuard
+cd vyomgarud-landing-page
+
 ▶️ Client Setup (React + Tailwind)
 cd client
 npm install
